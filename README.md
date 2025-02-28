@@ -1,1 +1,1 @@
-# slid
+# slider
